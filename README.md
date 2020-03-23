@@ -1,6 +1,6 @@
 # Sanke
 SANKE GAME with score using Curses Programming with Python
-
+the attached is fully commented and easy to understand
 This an application on
 Curses programming 
 
